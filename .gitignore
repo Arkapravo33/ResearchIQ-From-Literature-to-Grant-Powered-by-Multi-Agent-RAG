@@ -1,0 +1,39 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ── Environment & Secrets (NEVER commit .env) ────────────────────────────────
+.env
+.venv/
+env/
+venv/
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Project generated files ──────────────────────────────────────────────────
+data/chroma_db/
+data/exports/
+logs/
+.streamlit/config.toml
+
+# ── Backups (local dev only) ─────────────────────────────────────────────────
+backup_gemini/
+
+# ── Claude Code ──────────────────────────────────────────────────────────────
+.claude/
