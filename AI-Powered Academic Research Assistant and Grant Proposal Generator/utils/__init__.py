@@ -1,1 +1,0 @@
-# ResearchIQ - Utils Package

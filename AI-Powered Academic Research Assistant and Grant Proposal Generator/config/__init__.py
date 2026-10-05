@@ -1,1 +1,0 @@
-# ResearchIQ - Config Package
